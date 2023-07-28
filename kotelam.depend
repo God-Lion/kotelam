@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1531798260 source:c:\users\owner\documents\kotelam\kotelam\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1531990135 source:c:\users\owner\documents\kotelam\kotelam\fonction.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+
+1532043692 source:c:\users\bicoz\desktop\bon kotrlam\1\goog&bestkotelam\main.c
+	"main.h"
+
+1532055468 source:c:\users\bicoz\desktop\bon kotrlam\1\goog&bestkotelam\presentation.c
+	"main.h"
+
+1532079418 c:\users\bicoz\desktop\bon kotrlam\1\goog&bestkotelam\main.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<windows.h>
+	<unistd.h>
+
+1532079135 source:c:\users\bicoz\desktop\bon kotrlam\1\goog&bestkotelam\fonction.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+	<windows.h>
+	<unistd.h>
+
+1532055883 source:c:\users\bicoz\desktop\bon kotrlam\1\goog&bestkotelam\access.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532109348 source:c:\users\bicoz\documents\zpi\fonction.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+	<windows.h>
+	<unistd.h>
+
+1532106906 c:\users\bicoz\documents\zpi\main.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<windows.h>
+	<unistd.h>
+
+1532081440 source:c:\users\bicoz\documents\zpi\presentation.c
+	"main.h"
+
+1532106911 source:c:\users\bicoz\documents\zpi\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+
+1532106270 source:c:\users\bicoz\documents\zpi\access.c
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1532106270 source:c:\users\bicoz\desktop\jo\kotlam zpi\access.c
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1532106906 c:\users\bicoz\desktop\jo\kotlam zpi\main.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<windows.h>
+	<unistd.h>
+
+1532081440 source:c:\users\bicoz\desktop\jo\kotlam zpi\presentation.c
+	"main.h"
+
+1532134870 source:c:\users\bicoz\desktop\jo\kotlam zpi\fonction.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+	<windows.h>
+	<unistd.h>
+
+1532110760 source:c:\users\bicoz\desktop\jo\kotlam zpi\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+
+1532106270 source:c:\users\bicoz\desktop\langage_c\kotlam zpi\access.c
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1532106906 c:\users\bicoz\desktop\langage_c\kotlam zpi\main.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<windows.h>
+	<unistd.h>
+
+1532110760 source:c:\users\bicoz\desktop\langage_c\kotlam zpi\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+
+1532081440 source:c:\users\bicoz\desktop\langage_c\kotlam zpi\presentation.c
+	"main.h"
+
+1532159073 source:c:\users\bicoz\desktop\langage_c\kotlam zpi\fonction.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"main.h"
+	<windows.h>
+	<unistd.h>
+
